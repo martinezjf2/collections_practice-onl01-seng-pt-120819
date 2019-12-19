@@ -71,8 +71,8 @@ end
 def add_s(array)
   array.map.with_index do |element, index|
     if index != 1
-      return element + "s"
-    end
-    array
+     
+     
+   end
   end
 end
